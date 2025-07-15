@@ -1,0 +1,14 @@
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore node/npm stuff just in case
+node_modules/
+dist/
+
+# Ignore log files
+*.log
+
+# Ignore backup/temporary files
+*.bak
+*.tmp
